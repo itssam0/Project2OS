@@ -12,6 +12,16 @@ This project implements a traffic management system for a simulated city operate
 - **Deadlock Prevention and Recovery:** Implements strategies to prevent deadlocks in critical sections, with mechanisms for recovery if they occur.
 - **Simulation Testing:** Multiple test cases to simulate various traffic scenarios, including high congestion and deadlock situations.
 
+<hr>
+
+### Compilation:
+To compile the project, simply run the ***Compilar.bat*** file. This will compile all the necessary files for the simulation.
+
+### Running the Simulation:
+To run the traffic management simulation, execute the ***Run.bat*** file. This will start the program using the pre-defined settings.
+
+<hr>
+
 ### How It Works
 - **Robot Driver:** Navigates through the city, follows traffic rules, and waits at intersections when necessary. Robots must avoid deadlocks on a narrow, bidirectional road to a remote location.
 - **Traffic Light Controller:** Manages signals at intersections to ensure smooth traffic flow and avoid collisions.
