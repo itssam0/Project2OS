@@ -1,4 +1,6 @@
 # Project2OS
+*Check the releases*
+
 ## Traffic Management in a City of Robots
 
 ### Project Overview
